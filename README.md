@@ -76,19 +76,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or suggestions, contact [your email].
+For any questions or suggestions, contact [https://www.linkedin.com/in/joas-antonio-dos-santos/].
 ```
 
-### Explanations:
-
-- **Title and Description**: Provides an overview of the project.
-- **Features**: Lists the main features of the project.
-- **Requirements**: Details the necessary dependencies.
-- **Installation**: Steps to clone the repository and install dependencies.
-- **Usage**: Instructions on how to set up and run the script.
-- **Example Usage**: Code snippet showing how to use the script.
-- **Contributing**: Guidelines on how to contribute to the project.
-- **License**: Information about the project's license.
-- **Contact**: Contact information for support or suggestions.
 
 Feel free to adjust the sections as needed to fit the specifics of your project.
