@@ -1,4 +1,3 @@
-```markdown
 # Image Scraper and Deepfake Checker
 
 This project is an image scraping tool that downloads images from a webpage and checks if they are deepfakes using the [aiornot](https://docs.aiornot.com/) API.
