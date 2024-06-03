@@ -77,7 +77,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any questions or suggestions, contact [https://www.linkedin.com/in/joas-antonio-dos-santos/].
-```
-
-
-Feel free to adjust the sections as needed to fit the specifics of your project.
